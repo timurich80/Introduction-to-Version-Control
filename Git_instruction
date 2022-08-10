@@ -49,3 +49,23 @@ nothing to commit, working tree clean   -   *ничего не нужно фик
 **git brsnch <имя ветки>**
  
 Создание ветки <имя ветки>
+
+\
+\
+\\
+
+
+
+**git clone https://<адрес c github>**
+
+копирование репозитория с github
+\
+\
+\
+
+**git remote add origin <адрес github куда заливать>\
+git dranch -M main\
+git push -u origin main**
+
+оправка с локального репозитория в github
+
